@@ -1,2 +1,2 @@
 # Hello.py
-Hello world program 
+print ("hello , world")
